@@ -1,1 +1,1 @@
-Client for (https://github.com/krevetkqqq/chat)[server]
+Client for [server](https://github.com/krevetkqqq/chat)
